@@ -1,4 +1,4 @@
-# Publications from Orsec Labs.
+# Publications from SpaceSec R&D Labs.
 
 * [Academic Papers](#academic-papers)
   * [Attack Vector Analysis & Exploit Generation](#attack-vector-analysis-and-exploit-generation)
