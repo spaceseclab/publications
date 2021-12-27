@@ -14,7 +14,6 @@
   * [Protocol Reverse Engineering](#protocol-reverse-engineering)
   * [Quantum Adversarial Machine Learning](#quantum-adversarial-machine-learning)
   * [Threat analysis & malware](#threat-analysis--malware)
-* [Conference Presentations](#conference-presentations)
 * [Datasets](#datasets)
 * [Podcasts](#podcasts)
 * [Security Reviews](#security-reviews)
@@ -24,14 +23,26 @@
 
 ## Academic papers
 
-| Paper Title | Venue | Publication Date |
-| --- | --- | --- |
-
 
 ### Attack Vector Analysis & Exploit Generation
 
+| Presentation Title | Author(s) | Year |
+| --- | --- | --- |
+
 
 ### Automatic Code Generation
+
+| Presentation Title | Author(s) | Year |
+| --- | --- | --- |
+
+
+### Automated vulnerability Discovery
+
+| Presentation Title | Author(s) | Year |
+| --- | --- | --- |
+
+
+### Binary Reverse Engineering
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
@@ -43,44 +54,41 @@
 | --- | --- | --- |
 
 
+### Cybersecurity Data Science
+
+| Presentation Title | Author(s) | Year |
+| --- | --- | --- |
+
+
 ### Engineering
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
 
 
-### Education
+### Exploit Mitigation
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
 
 
-### Infrastructure
-
-| Presentation Title | Author(s) | Year |
-| --- | --- | --- |
-
-
-### Machine Learning
-
-| Presentation Title | Author(s) | Year |
-| --- | --- | --- |
-
-
-### Mobile security
+### Machine-learning based program Analysis
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
 
 
 ### Programming
-
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
 
 
-### Side channels
+### Protocol Reverse Engineering
+| Presentation Title | Author(s) | Year |
+| --- | --- | --- |
 
+
+### Quantum Adversarial Machine Learning
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
 
@@ -112,22 +120,11 @@ Companies that have allowed us to speak about our work can be found here. Many m
 | --- | --- | --- | --- | --- |
 
 
-### Cloud-native
-
-| Product | Review Date | Level of Effort | Deliverables | Announcement |
-| --- | --- | --- | --- | --- |
-
-
-### Smart contracts
+### Open-source Flight Software
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
 
-
-### Blockchain protocols and software
-
-| Product | Review Date | Level of Effort | Announcement |
-| --- | --- | --- | --- |
 
 ## Workshops
 
