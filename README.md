@@ -28,15 +28,10 @@
 | --- | --- | --- |
 
 
-## Conference presentations
-
-### Automated bug finding and exploitation
-
-| Presentation Title | Author(s) | Year |
-| --- | --- | --- |
+### Attack Vector Analysis & Exploit Generation
 
 
-### Blockchain
+### Automatic Code Generation
 
 | Presentation Title | Author(s) | Year |
 | --- | --- | --- |
