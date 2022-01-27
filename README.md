@@ -1,4 +1,4 @@
-# Publications from SpaceSec R&D Labs.
+# Publications from SpaceSec.
 
 * [Academic Papers](#academic-papers)
   * [Attack Vector Analysis & Exploit Generation](#attack-vector-analysis-and-exploit-generation)
